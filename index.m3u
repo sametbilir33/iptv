@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:60,TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:60,TRT 1 test
+https://www.tabii.com/tr/watch/live/trt1?trackId=150002
+
